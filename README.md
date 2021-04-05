@@ -1,5 +1,5 @@
 # Implementation-of-Firewall-Proxy-through-RMI-Callback
-The JAVA project shows the implementation of firewall and RMI callbacks.\n
+The JAVA project shows the implementation of firewall and RMI callbacks.
 Proxy Application firewall is created to filter the words from the server to the client.
  
 # Group No 17
